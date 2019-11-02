@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "collect_ldr_response.ino",
+    "port": "/dev/ttyACM1"
+}
